@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones
+build/
+dist/
+*.egg-info/
+
+# Archivos de logs
+*.log
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración de Poetry (si utilizas entornos creados por Poetry)
+.poetry/
+
+# Archivos de entorno (no versionar variables sensibles)
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuraciones del editor
+.vscode/
+.idea/
